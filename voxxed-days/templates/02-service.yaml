@@ -11,4 +11,5 @@ spec:
     protocol: {{ .Values.service.protocol }}
     targetPort: {{ .Values.containerPort }}
   selector:
-    run: {{ .Release.Name }
+    run: {{ .Release.Name }}
+

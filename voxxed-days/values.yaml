@@ -6,4 +6,5 @@ containerPort: 80
 service:
   port: 80
   protocol: TCP
-  type: ClusterI
+  type: ClusterIP
+

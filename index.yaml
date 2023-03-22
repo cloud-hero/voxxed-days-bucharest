@@ -3,7 +3,17 @@ entries:
   voxxed-days:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-22T16:38:32.221152+02:00"
+    created: "2023-03-22T16:41:36.524675+02:00"
+    description: A Helm chart for Kubernetes
+    digest: b26cc5e6ccfb78ab3859e573c54f348ad984b7678fcaaf8b4cf9af049a64f2a9
+    name: voxxed-days
+    type: application
+    urls:
+    - voxxed-days-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-22T16:41:36.524486+02:00"
     description: A Helm chart for Kubernetes
     digest: 3a284dca02c7ad1727fa0e86b1bd682ee88a7a2ee9dcd2ba9e5e2fe729c8dbe2
     name: voxxed-days
@@ -11,4 +21,4 @@ entries:
     urls:
     - voxxed-days-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-22T16:38:32.220683+02:00"
+generated: "2023-03-22T16:41:36.52402+02:00"
